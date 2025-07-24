@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <!-- Exclude sensitive data from cloud backups -->
+        <exclude domain="sharedpref" path="sensitive_prefs.xml" />
+        <exclude domain="database" path="profinder_database" />
+    </cloud-backup>
+    <device-transfer>
+        <!-- Include data for device transfer -->
+        <include domain="sharedpref" path="app_preferences.xml" />
+    </device-transfer>
+</data-extraction-rules>

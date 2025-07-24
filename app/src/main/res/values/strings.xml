@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Profinder</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_bookings">Bookings</string>
+    <string name="nav_profile">Profile</string>
+    
+    <!-- Home Screen -->
+    <string name="welcome_message">Find Professionals Near You</string>
+    <string name="search_hint">Search for services...</string>
+    <string name="categories_title">Categories</string>
+    <string name="featured_professionals">Featured Professionals</string>
+    <string name="view_all">View All</string>
+    
+    <!-- Professional Details -->
+    <string name="rating">Rating</string>
+    <string name="reviews">Reviews</string>
+    <string name="experience">Experience</string>
+    <string name="hourly_rate">Hourly Rate</string>
+    <string name="location">Location</string>
+    <string name="skills">Skills</string>
+    <string name="description">Description</string>
+    <string name="contact">Contact</string>
+    <string name="book_now">Book Now</string>
+    <string name="call">Call</string>
+    <string name="message">Message</string>
+    <string name="verified_professional">Verified Professional</string>
+    
+    <!-- Search -->
+    <string name="search_results">Search Results</string>
+    <string name="no_results">No professionals found</string>
+    <string name="filter">Filter</string>
+    <string name="sort_by">Sort By</string>
+    <string name="sort_rating">Rating</string>
+    <string name="sort_distance">Distance</string>
+    <string name="sort_price">Price</string>
+    
+    <!-- Booking -->
+    <string name="booking_title">Book Service</string>
+    <string name="service_title">Service Title</string>
+    <string name="service_description">Service Description</string>
+    <string name="preferred_date">Preferred Date</string>
+    <string name="preferred_time">Preferred Time</string>
+    <string name="estimated_duration">Estimated Duration (hours)</string>
+    <string name="submit_request">Submit Request</string>
+    <string name="booking_success">Booking request submitted successfully!</string>
+    
+    <!-- Profile -->
+    <string name="my_profile">My Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="my_bookings">My Bookings</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    
+    <!-- Authentication -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="already_have_account">Already have an account?</string>
+    
+    <!-- Common -->
+    <string name="loading">Loading...</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="years_experience">%d years experience</string>
+    <string name="dollar_per_hour">$%.0f/hour</string>
+    <string name="km_away">%.1f km away</string>
+    
+    <!-- Permissions -->
+    <string name="location_permission_required">Location permission is required to find professionals near you</string>
+    <string name="camera_permission_required">Camera permission is required to take photos</string>
+    <string name="call_permission_required">Phone permission is required to make calls</string>
+</resources>
